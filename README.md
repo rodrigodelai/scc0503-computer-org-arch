@@ -1,6 +1,6 @@
 ## SSC0513 - Organização e Arquitetura de Computadores
 
-Esta disciplina foi oferecida em **2023/2** pelo [ICMC-USP](https://www.icmc.usp.br) à turma de Bacharelado em **Sistemas de Informação** com carga horária de **120h**. Seu objetivo é o de introduzir conceitos de organização e arquitetura de computadores, como: 
+Esta disciplina foi oferecida em **2023/2** pelo [ICMC-USP](https://www.icmc.usp.br) à turma de Bacharelado em **Sistemas de Informação** com carga horária de **90h**. Seu objetivo é o de introduzir conceitos de organização e arquitetura de computadores como: 
 
 - Arquitetura de von Neumann: conceitos, evolução, RISC/CISC e processadores modernos;
 - Implementação do Ciclo de Instrução: aspectos estruturais, funcionais e de desempenho do nível de microarquitetura;
